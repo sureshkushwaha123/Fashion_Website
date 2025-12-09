@@ -1,45 +1,46 @@
 import SareeCard from "./SareeCard";
-import sareeSambalpuri from "@/assets/saree-sambalpuri.jpg";
-import sareeBomkai from "@/assets/saree-bomkai.jpg";
-import sareeIkat from "@/assets/saree-ikat.jpg";
-import sareeKotpad from "@/assets/saree-kotpad.jpg";
-import sareeTussar from "@/assets/saree-tussar.jpg";
-import sareeBanarasi from "@/assets/saree-banarasi.jpg";
+import sareeSambalpuri from "@/assets/sareesambalpuri.jpg";
+import sareeBomkai from "@/assets/sareebomkai.jpg";
+import sareeIkat from "@/assets/sareeikat.jpg";
+import sareeKotpad from "@/assets/sareekotpad.jpg";
+import sareeTussar from "@/assets/sareetussar.jpg";
+import sareeBanarasi from "@/assets/sareebanarasi.jpg";
+
 
 const sarees = [
   {
     image: sareeSambalpuri,
-    name: "Sambalpuri Silk Saree",
+    name: "Heritage Occasion Wear",
     price: 8500,
     originalPrice: 12000,
     tag: "Bestseller",
   },
   {
     image: sareeBomkai,
-    name: "Bomkai Traditional Saree",
+    name: "Craft Infused Formal Wear",
     price: 7800,
     tag: "New Arrival",
   },
   {
     image: sareeIkat,
-    name: "Ikat Handwoven Saree",
+    name: "Everyday Ethnic-Fusion Wear",
     price: 6500,
     originalPrice: 8500,
   },
   {
     image: sareeKotpad,
-    name: "Kotpad Organic Cotton",
+    name: "Utkala Ensemble",
     price: 5200,
   },
   {
     image: sareeTussar,
-    name: "Tussar Silk Elegance",
+    name: "Tussar Weave Tote",
     price: 9800,
     tag: "Premium",
   },
   {
     image: sareeBanarasi,
-    name: "Banarasi Brocade",
+    name: "Banarasi Brocade Stole",
     price: 15000,
     originalPrice: 18000,
   },
