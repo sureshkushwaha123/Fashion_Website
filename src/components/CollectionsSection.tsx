@@ -1,10 +1,10 @@
 import SareeCard from "./SareeCard";
 import sareeSambalpuri from "@/assets/sareesambalpuri.jpg";
-import sareeBomkai from "@/assets/sareebomkai.jpg";
-import sareeIkat from "@/assets/sareeikat.jpg";
-import sareeKotpad from "@/assets/sareekotpad.jpg";
-import sareeTussar from "@/assets/sareetussar.jpg";
-import sareeBanarasi from "@/assets/sareebanarasi.jpg";
+import sareeBomkai from "@/assets/sareeBomkai.jpg";
+import sareeIkat from "@/assets/sareeiKat.jpg";
+import sareeKotpad from "@/assets/sareeKotpad.jpg";
+import sareeTussar from "@/assets/sareeTussar.jpg";
+import sareeBanarasi from "@/assets/sareeBanarasi.jpg";
 
 
 const sarees = [
