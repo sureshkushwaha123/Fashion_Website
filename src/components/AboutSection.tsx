@@ -1,5 +1,5 @@
 import reetLogo from "../assets/reet-logo.jpg";
-import toteBag from "../assets/sareetussar.jpg";
+
 
 
 const AboutSection = () => {
@@ -84,14 +84,6 @@ const AboutSection = () => {
           Timeless Elegance
         </p>
       </div>
-    </div>
-
-    <div className="rounded-lg overflow-hidden shadow-[var(--shadow-card)]">
-      <img
-        src={toteBag}
-        alt="Handwoven fabric detail"
-        className="w-full h-48 md:h-64 object-cover"
-      />
     </div>
   </div>
 </div>
