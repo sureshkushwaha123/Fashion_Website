@@ -1,5 +1,5 @@
 import SareeCard from "./SareeCard";
-import sareeSambalpuri from "@/assets/sareeSamalpuri.jpg";
+import sareeSambalpuri from "@/assets/sareeSambalpuri.jpg";
 import sareeBomkai from "@/assets/sareeBomkai.jpg";
 import sareeIkat from "@/assets/sareeIKat.jpg";
 import sareeKotpad from "@/assets/sareeKotpad.jpg";
